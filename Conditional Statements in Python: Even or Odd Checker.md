@@ -19,6 +19,8 @@ if a % 2 == 0:
 else:
     print("ODD")
 
+
+
 ## Output
 
 ![image](https://github.com/user-attachments/assets/8213f7cd-c8a6-4625-9e04-3b00d0160a48)
